@@ -24,7 +24,7 @@ yarn add react-img-component
 Import and use `ReactImage` in your React project:
 
 ```tsx
-import ReactImage from 'react-image-loader';
+import ReactImage from 'react-img-component';
 
 
       <ReactImage
